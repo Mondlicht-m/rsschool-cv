@@ -1,1 +1,2 @@
-https://github.com/Mondlicht-m/rsschool-cv/blob/gh-pages/cv.md
+https://Mondlicht-m.github.io/rsschool-cv/cv
+https://Mondlicht-m.github.io/rsschool-cv/
