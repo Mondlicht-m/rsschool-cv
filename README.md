@@ -1,1 +1,2 @@
-https://github.com/Mondlicht-m/rsschool-cv/
+https://mondlicht-m.github.io/rsschool-cv/cv
+8
