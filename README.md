@@ -1,1 +1,1 @@
-https://github.com/Mondlicht-m/rsschool-cv/
+https://Mondlicht-m.github.io/rsschool-cv/
